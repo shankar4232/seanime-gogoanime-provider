@@ -1,10 +1,10 @@
 {
   "id": "gogoanime-provider",
   "name": "Gogoanime",
-  "description": "Gogoanime streaming provider for Seanime",
   "version": "1.0.0",
-  "author": "shankar4232",
   "type": "onlinestream-provider",
+  "author": "shankar4232",
+  "language": "typescript",
   "manifestURI": "https://raw.githubusercontent.com/shankar4232/seanime-gogoanime-provider/main/manifest.json",
   "payloadURI": "https://raw.githubusercontent.com/shankar4232/seanime-gogoanime-provider/main/dist/index.js"
 }
