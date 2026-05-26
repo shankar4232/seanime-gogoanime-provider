@@ -1,0 +1,16 @@
+{
+  "name": "seanime-gogoanime-provider",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsup src/index.ts --format esm --out-dir dist"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "axios": "^1.7.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "tsup": "^8.0.0"
+  }
+}

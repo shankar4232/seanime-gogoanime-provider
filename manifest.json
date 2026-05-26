@@ -1,0 +1,14 @@
+{
+  "id": "gogoanime-provider",
+  "name": "Gogoanime",
+  "description": "Gogoanime streaming provider for Seanime",
+  "version": "1.0.0",
+  "author": "YourName",
+  "type": "onlinestream-provider",
+  "language": "typescript",
+  "lang": "multi",
+  "manifestURI": "https://raw.githubusercontent.com/YOUR_USERNAME/seanime-gogoanime-provider/main/manifest.json",
+  "payloadURI": "https://raw.githubusercontent.com/YOUR_USERNAME/seanime-gogoanime-provider/main/dist/index.js",
+  "icon": "https://raw.githubusercontent.com/YOUR_USERNAME/seanime-gogoanime-provider/main/icon.png",
+  "website": "https://github.com/YOUR_USERNAME/seanime-gogoanime-provider"
+}
