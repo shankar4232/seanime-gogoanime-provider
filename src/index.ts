@@ -8,14 +8,14 @@ export default {
   name: "Gogoanime",
 
   async search(query: string) {
-    return await searchAnime(query)
+    return searchAnime(query)
   },
 
   async episodes(animeId: string) {
-    return await getEpisodes(animeId)
+    return getEpisodes(animeId)
   },
 
   async streams(episodeUrl: string) {
-    return await getStreams(episodeUrl)
+    return getStreams(episodeUrl)
   }
 }
